@@ -71,5 +71,8 @@ Halaman dashboard menampilkan data user yang berhasil login (nama, NISN, kelas),
 ![Dashboard Screen](/lib/image/dashboard_screen.jpg)
 
 Update login feature documentation.
+Improve dashboard UI documentation.
+Final project update documentation.
+
 
 Dibuat oleh: I Putu Gede Udiyana Putra NIM: 2401010072 Kelas: M Program Studi: S1 Teknik Informatika - INSTIKI
