@@ -73,7 +73,6 @@ Halaman dashboard menampilkan data user yang berhasil login (nama, NISN, kelas),
 Update login feature documentation.
 Improve dashboard UI documentation.
 Final project update documentation.
-Repository updated for final UTS submission.
 
 
 Dibuat oleh: I Putu Gede Udiyana Putra NIM: 2401010072 Kelas: M Program Studi: S1 Teknik Informatika - INSTIKI
